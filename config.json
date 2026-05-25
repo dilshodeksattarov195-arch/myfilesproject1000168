@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderpalidate",
+        "uuid": 1420440,
+        "checksum": "vbc4kh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
